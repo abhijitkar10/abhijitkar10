@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @abhijitkar10
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on learning something new
 - 📫 How to reach me @ abhijitkar0815@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love tech
 
 <!---
